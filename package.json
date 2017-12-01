@@ -4,7 +4,6 @@
   "repository": "koajs/compose",
   "version": "4.0.0",
   "main": "dist/koa-compose.js",
-  "module": "dist/koa-compose.esm.js",
   "keywords": [
     "koa",
     "middleware",
