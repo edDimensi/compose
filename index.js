@@ -1,10 +1,8 @@
-'use strict'
-
 /**
  * Expose compositor.
  */
 
-module.exports = compose
+export default compose
 
 /**
  * Compose `middleware` returning
